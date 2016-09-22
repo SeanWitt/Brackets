@@ -1,3 +1,7 @@
+A codility challenge to detect if brackets are properly nested
+
+
+
 A string S consisting of N characters is called properly nested if:
 
 S is empty;
